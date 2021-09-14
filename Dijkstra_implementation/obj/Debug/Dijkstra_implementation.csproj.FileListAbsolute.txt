@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\nso\Big data algorithms\Day4\Dijkstra_implementation\Dijkstra_implementation\bin\Debug\Dijkstra_implementation.exe.config
+C:\Users\User\Desktop\nso\Big data algorithms\Day4\Dijkstra_implementation\Dijkstra_implementation\bin\Debug\Dijkstra_implementation.exe
+C:\Users\User\Desktop\nso\Big data algorithms\Day4\Dijkstra_implementation\Dijkstra_implementation\bin\Debug\Dijkstra_implementation.pdb
+C:\Users\User\Desktop\nso\Big data algorithms\Day4\Dijkstra_implementation\Dijkstra_implementation\obj\Debug\Dijkstra_implementation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\nso\Big data algorithms\Day4\Dijkstra_implementation\Dijkstra_implementation\obj\Debug\Dijkstra_implementation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\nso\Big data algorithms\Day4\Dijkstra_implementation\Dijkstra_implementation\obj\Debug\Dijkstra_implementation.exe
+C:\Users\User\Desktop\nso\Big data algorithms\Day4\Dijkstra_implementation\Dijkstra_implementation\obj\Debug\Dijkstra_implementation.pdb
